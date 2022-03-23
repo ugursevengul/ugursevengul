@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Uğur</h1>
+<h1 align="center">Hi 👋, I'm Uğur</h1>
 <h3 align="center">A Frontend Developer from İstanbul/Turkey</h3>
 
 - 🌱 I’m currently learning **React.js, Javascript etc.**
